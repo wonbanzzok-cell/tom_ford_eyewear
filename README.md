@@ -48,4 +48,5 @@ Self-hosted fonts (WOFF2, downloaded with pinned versions from jsDelivr's npm mi
 ## Deployment
 
 - Repository: https://github.com/wonbanzzok-cell/tom_ford_eyewear
-- Live page (GitHub Pages): _to be added after deployment_
+- Live page (GitHub Pages): https://wonbanzzok-cell.github.io/tom_ford_eyewear/
+- Deployed 2026-11-05 from the `main` branch root. Checked with Playwright at 1440px and 390px (also 360px locally): no console errors, no failed requests, no horizontal scroll.
